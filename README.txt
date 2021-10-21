@@ -14,7 +14,7 @@ You should hopefully get prompted to turn the option on when opening the file, i
 
 ----------------------Viewing and running on the regression code--------------------
 regression_model.ipynb contains the code for building and training the prediction model.
-It is reccomended that this is opened using google colaboratory - https://colab.research.google.com/notebooks/intro.ipynb to avoid dependancy errors.
+It is recommended that this is opened using google colaboratory - https://colab.research.google.com/notebooks/intro.ipynb to avoid dependancy errors.
 
 The model is trained and tested by running each cell in order. Cell 2 will prompt a file upload - select the export.csv file.
 
