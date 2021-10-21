@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/Transactions">
+    <fragment
+        android:id="@+id/Accounts"
+        android:name="com.example.qwibBank.Screens.AccountsFragment"
+        android:label="AccountListFragment" />
+    <fragment
+        android:id="@+id/Transactions"
+        android:name="com.example.qwibBank.Screens.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/Budget"
+        android:name="com.example.qwibBank.Screens.BudgetFragment"
+        android:label="Allocate" />
+    <fragment
+        android:id="@+id/EditBudget"
+        android:name="com.example.qwibBank.Screens.GenBudgetFragment"
+        android:label="Budget" />
+</navigation>

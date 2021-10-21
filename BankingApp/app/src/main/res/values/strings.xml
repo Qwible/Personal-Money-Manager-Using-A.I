@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">qwibBank</string>
+    <string name="title_home">Transactions</string>
+    <string name="title_dashboard">Accounts</string>
+    <string name="title_notifications">Budget</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="button_date">Date</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
